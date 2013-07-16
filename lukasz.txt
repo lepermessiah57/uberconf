@@ -1,0 +1,3 @@
+Lukasz @ git workshop
+
+This is another text file.
